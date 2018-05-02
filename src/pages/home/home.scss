@@ -1,3 +1,25 @@
 page-home {
 
+    .sendButton{
+        margin-top: 5px;
+        float: right;
+    }
+
+    .messages{
+        display: -webkit-box !important;
+        display: -moz-box !important;
+        display: -ms-flexbox !important;
+        display: -webkit-flex !important;
+        display: flex !important;
+        -webkit-align-content: center !important;
+        -ms-flex-line-pack: center !important;
+        align-content: center !important;
+         -webkit-box-align: center !important;
+        -moz-box-align: center !important;
+        -webkit-align-items: center !important;
+        -ms-flex-align: center !important;
+        align-items: center !important;
+        margin-bottom: 20px !important;
+    }
+
 }
